@@ -1,6 +1,6 @@
 {
   "name": "iso-validators",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Isomorphic validators adapted from nodejs.",
   "main": "validators.node.js",
   "module": "validators.js",
