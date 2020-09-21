@@ -22,11 +22,11 @@
   "author": "isysd",
   "license": "MIT",
   "dependencies": {
-    "esm": "../esm",
-    "iso-errors": "../iso-errors"
+    "esm": "../esm"
   },
   "peerDependencies": {
-    "gpm": "https://github.com/IonicaBizau/gpm.git"
+    "gpm": "https://github.com/IonicaBizau/gpm.git",
+    "iso-errors": "../iso-errors"
   },
   "devDependencies": {
     "iso-test": "../iso-test"
